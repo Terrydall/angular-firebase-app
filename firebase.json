@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "angular-firebase-app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

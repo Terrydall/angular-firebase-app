@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-app-8f8de": {
+      "hosting": {
+        "angular-firebase-app": [
+          "angular-firebase-app-8f8de"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-app-8f8de"
+  }
+}
